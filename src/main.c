@@ -3,7 +3,7 @@
 
 void test(const char* str)
 {
-  printf("hello\n");
+  printf("hello %s\n",str);
 }
 
 int main(int argc, char const *argv[]) {
